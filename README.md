@@ -5,7 +5,6 @@
 Email Me 👉 ✉️ **aayushishivnani716@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌟 About Me
-- 💻 Currently learning **MERN Stack & Data Structures**
 - 🤖 Exploring **Artificial Intelligence & Cloud (Azure)**
 - 🔐 Deeply interested in **Cybersecurity**
 - 🚀 Building a safety-focused project: **HerVoice**
