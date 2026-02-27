@@ -5,7 +5,7 @@
 Email Me 👉 ✉️ **aayushishivnani716@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
-🤖 Exploring Artificial Intelligence & Cloud (Azure)<br>🔐 Deeply interested in AI & Cybersecurity<br>🚀 Building a safety-focused project: HerVoice<br>🌱 Preparing for Microsoft Learn Student Ambassador Program<br>🌱 I’m currently learning: Full Stack Developer<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: aayushishivnani7162gmail.com<br>😄 Pronouns: Miss Aayushi<br>⚡ Fun fact: I Love Tech and Tech Love Me
+🤖 **Exploring** Artificial Intelligence & Cloud (Azure)<br>🔐 **Deeply interested in** AI & Cybersecurity<br>🚀 **Building a safety-focused project:** HerVoice<br>🌱 **Preparing for** Microsoft Learn Student Ambassador Program<br>🌱 **I’m currently learning:** Full Stack Developer<br>💬 **Ask me about:** Collaboration, Tech Support<br>📫 **How to reach me:** aayushishivnani7162gmail.com<br>😄 **Pronouns:** Miss Aayushi<br>⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **aayushishivnani716@gmail.com** For Collaboration/Project 
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=misssaayushi&icon=0&color=0)](https://visitcount.itsvg.in)
