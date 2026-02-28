@@ -24,6 +24,51 @@ Email Me 👉 ✉️ **aayushishivnani716@gmail.com** For Collaboration/Project 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<h1 align="center">🏆 Certifications</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA-Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-Python_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-Applied_Skills-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+---
+
+
+## 🤖 NVIDIA
+
+### 📌 Fundamentals of Deep Learning  
+<p>
+Issued by <b>NVIDIA</b><br>
+🔗 <a href="https://learn.nvidia.com/certificates?id=xwMO_oISSvSViK1C3xwkVg" target="_blank">View Certificate</a>
+</p>
+
+---
+
+## 🐍 Python Specialization – University of Michigan (Coursera)
+
+### 📌 Programming for Everybody (Python)
+🔗 https://www.coursera.org/account/accomplishments/verify/29WTXGTWARQU  
+
+### 📌 Python Data Structures
+🔗 https://www.coursera.org/account/accomplishments/verify/Y2HBCAPYUF0A  
+
+### 📌 Retrieving, Processing & Visualizing Data
+🔗 https://www.coursera.org/account/accomplishments/verify/Y2HBCAPYUF0A  
+
+---
+
+## 🧠 Microsoft Applied Skills
+
+### 📌 Create an Agent with Microsoft Copilot Studio
+🔗 https://learn.microsoft.com/en-us/users/Aayu-8738/credentials/9C8AA216A2C3C58B  
+
+### 📌 Generate Reports with AI Agent
+🔗 https://learn.microsoft.com/api/credentials/share/en-in/Aayu-8738/4900F026442F7C75?sharingId  
+
+<h3 align="center">✨ Continuously Learning & Building in AI, Web Development & Software Engineering ✨</h3>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
