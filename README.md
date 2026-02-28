@@ -1,6 +1,14 @@
-# 💫 Hi 👋, I'm Aayushi Shivnani
-**🚀 Aspiring Full-Stack Developer | AI & Cybersecurity Enthusiast  
-🎓 Student at Mohanlal Sukhadia University (MLSU), Rajasthan, India**
+# 💫👋 Hi, I'm Aayushi Shivnani  
+
+**🚀 Aspiring Full-Stack Developer | AI & Cybersecurity Enthusiast** 
+**🎓 Student at Mohanlal Sukhadia University (Rajasthan, India)**
+
+I’m passionate about building impactful technology solutions that solve real-world problems.  
+🔹 Building projects to strengthen practical skills  
+🔹 Preparing for Microsoft Learn Student Ambassador Program  
+🔹 Interested in AI-driven and safety-focused solutions  
+
+💡 I believe in learning by building and improving every day.
 
 Email Me 👉 ✉️ **aayushishivnani716@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
