@@ -54,6 +54,7 @@ Email Me 👉 ✉️ **aayushishivnani716@gmail.com** For Collaboration/Project 
   <img src="https://img.shields.io/badge/NVIDIA-Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coursera-Python_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft-Applied_Skills-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PW%20Skills-Full%20Stack%20with%20AI-EA4AAA?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </p>
 
 ---
@@ -90,8 +91,6 @@ Issued by <b>NVIDIA</b><br>
 ### 📌 Generate Reports with AI Agent
 🔗 https://learn.microsoft.com/api/credentials/share/en-in/Aayu-8738/4900F026442F7C75?sharingId  
 
-<h3 align="center">✨ Continuously Learning & Building in AI, Web Development & Software Engineering ✨</h3>
-
 ---
 
 ## 💻 PW Skills
@@ -101,6 +100,8 @@ Issued by <b>NVIDIA</b><br>
 Issued by **Physics Wallah (PW Skills)**  
 🔗 https://pwskills.com/learn/certificate/fb84d5c4-2516-4c70-853a-fb246f5d7d6d/?isCareerPath=true
 
+---
+<h3 align="center">✨ Continuously Learning & Building in AI, Web Development & Software Engineering ✨</h3>
 ---
 
 ### ✍️ Random Dev Quote
