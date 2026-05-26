@@ -1,6 +1,6 @@
 # 💫👋 Hi, I'm Aayushi Shivnani  
 
-**Founder - HerVoice | 🚀 Full-Stack Developer | AI & Cybersecurity Enthusiast**
+**Founder - HerVoice | 🚀 Full-Stack Developer | AI & Cybersecurity Enthusiast** <br>
 **🎓 Student at Mohanlal Sukhadia University (Rajasthan, India)**
 
 I’m passionate about building impactful technology solutions that solve real-world problems.  
@@ -13,7 +13,7 @@ I’m passionate about building impactful technology solutions that solve real-w
 Email Me 👉 ✉️ **aayushishivnani716@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
-🤖 **Exploring** Artificial Intelligence & Cloud (Azure)<br>🔐 **Deeply interested in** AI & Cybersecurity<br>🚀 **Building a safety-focused project:** HerVoice<br>🌱 **Preparing for** Microsoft Learn Student Ambassador Program<br>🌱🚀 **Currently:** Full Stack Developer <br>💬 **Ask me about:** Collaboration, Tech Support<br>📫 **How to reach me:** aayushishivnani7162gmail.com<br>😄 **Pronouns:** Miss Aayushi<br>⚡ **Fun fact:** I Love Tech and Tech Love Me
+🤖 **Exploring** Artificial Intelligence & Cloud (Azure)<br>🔐 **Deeply interested in** AI & Cybersecurity<br>🚀 **Building a safety-focused project:** HerVoice<br>🌱 **Preparing for** Microsoft Learn Student Ambassador Program<br>🚀 **Currently:** Full Stack Developer <br>💬 **Ask me about:** Collaboration, Tech Support<br>📫 **How to reach me:** aayushishivnani7162gmail.com<br>😄 **Pronouns:** Miss Aayushi<br>⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
